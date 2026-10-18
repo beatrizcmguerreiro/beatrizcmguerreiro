@@ -7,7 +7,7 @@
 - 🚀 **LASIGE Outstanding Research Project (Top 5)** with My AI Mirror, a research project that explores how we can help university students become more aware of their interactions with AI. 
 - 🏆 **SKYHACK Hackathon Finalist** (Top 10) with [_SoftLanding_](https://github.com/beatrizcmguerreiro/SoftLanding), an AI-powered healthcare application
 
-My current research focuses on how people interact with AI systems and what happens when those interactions start to influence their decision-making skills and well-being. I'm currently developing a [prototype](https://github.com/beatrizcmguerreiro/Sentinel) that monitors conversational patterns and surfaces risk signals in real time.
+My current research focuses on how people interact with AI systems and what happens when those interactions start to influence their decision-making skills and well-being. I'm currently developing a prototype that monitors conversational patterns and surfaces risk signals in real time.
 
 I'm interested in designing systems that are not just powerful, but also accessible, responsible, and aligned with how people actually use them.
 
