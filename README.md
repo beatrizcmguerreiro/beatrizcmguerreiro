@@ -15,3 +15,11 @@ I'm interested in designing systems that are not just powerful, but also accessi
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/beatrizcmguerreiro/)
+
+<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+  <picture>
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=beatrizcmguerreiro&color=eab308&theme=dark&mode=mono&preset=githuborange&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=beatrizcmguerreiro&color=eab308&theme=light&mode=mono&preset=githuborange&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=beatrizcmguerreiro&color=eab308&theme=light&mode=mono&preset=githuborange&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
+  </picture>
+</a>
